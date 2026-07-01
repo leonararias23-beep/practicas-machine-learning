@@ -1,12 +1,12 @@
-# Proyectos de Machine Learning
+# Práctica de Machine Learning
 
-Repositorio de práctica que reúne tres ejercicios de Machine Learning. Cada notebook aborda un problema distinto (predicción numérica y clasificación) y documenta, dentro de sus propias celdas, el sustento teórico de cada modelo, la implementación en Python y el análisis de los resultados obtenidos.
+En este repositorio se reúne tres algoritmos de Machine Learning. Cada notebook aborda un problema distinto (predicción numérica y clasificación) y documenta, dentro de sus propias celdas, el sustento teórico de cada modelo, la implementación en Python y el análisis de los resultados obtenidos.
 
 **Autor:** Nelson Leonardo Páez Arias
 
 ## Estructura del repositorio
 
-```
+
 ├── data/
 │   ├── china_gdp.csv
 │   ├── dataset_flor_iris.csv
@@ -15,7 +15,7 @@ Repositorio de práctica que reúne tres ejercicios de Machine Learning. Cada no
 ├── Clasificacion_Hoja_iris_ml.ipynb
 ├── Regresion_lineal_prediccion_peso.ipynb
 └── README.md
-```
+
 
 Todos los conjuntos de datos utilizados por los notebooks se encuentran en la carpeta `data/`. La explicación teórica de cada técnica, así como el análisis y las conclusiones de los resultados, está desarrollada directamente en las celdas de tipo Markdown dentro de cada notebook, por lo que este documento se limita a describir el contenido general del repositorio y la forma de ejecutarlo.
 
