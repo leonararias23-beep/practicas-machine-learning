@@ -6,7 +6,7 @@ En este repositorio se reúne tres algoritmos de Machine Learning. Cada notebook
 
 ## Estructura del repositorio
 
-
+```
 ├── data/
 │   ├── china_gdp.csv
 │   ├── dataset_flor_iris.csv
@@ -15,7 +15,7 @@ En este repositorio se reúne tres algoritmos de Machine Learning. Cada notebook
 ├── Clasificacion_Hoja_iris_ml.ipynb
 ├── Regresion_lineal_prediccion_peso.ipynb
 └── README.md
-
+```
 
 Todos los conjuntos de datos utilizados por los notebooks se encuentran en la carpeta `data/`. La explicación teórica de cada técnica, así como el análisis y las conclusiones de los resultados, está desarrollada directamente en las celdas de tipo Markdown dentro de cada notebook, por lo que este documento se limita a describir el contenido general del repositorio y la forma de ejecutarlo.
 
