@@ -21,7 +21,7 @@ Todos los conjuntos de datos utilizados por los notebooks se encuentran en la ca
 
 ## Proyectos
 
-### 1. Regresión No Lineal — Predicción del PIB de China
+### 1. Regresión No Lineal. Predicción del PIB de China
 
 **Archivo:** `Regresion_No_lineal_PIB_China.ipynb`
 **Dataset:** `data/china_gdp.csv`
@@ -34,7 +34,7 @@ Proyecto de regresión que compara tres modelos no lineales para predecir el Pro
 
 Cada modelo se evalúa con las métricas MAE, MSE, RMSE y R², y adicionalmente se calcula el error porcentual de la predicción frente al valor real del PIB en 2025 que es de 19.652 billones de USD. El notebook cierra con una comparación conjunta de los tres modelos para determinar cuál generaliza mejor fuera del rango de datos históricos.
 
-### 2. Clasificación de Especies — Dataset Iris
+### 2. Clasificación de Especies. Dataset Iris
 
 **Archivo:** `Clasificacion_Hoja_iris_ml.ipynb`
 **Dataset:** `data/dataset_flor_iris.csv`
@@ -47,7 +47,7 @@ Proyecto de clasificación multiclase que utiliza el conjunto de datos Iris (150
 
 El notebook incluye un análisis exploratorio de datos (EDA) mediante `pairplot`, la preparación y escalamiento de los datos, y la evaluación de cada modelo con Accuracy, Precision, Recall y F1-Score, además de matrices de confusión. Finaliza con una tabla comparativa de las tres técnicas.
 
-### 3. Regresión Lineal — Predicción de Peso Corporal
+### 3. Regresión Lineal. Predicción de Peso Corporal
 
 **Archivo:** `Regresion_lineal_prediccion_peso.ipynb`
 **Dataset:** `data/alturas-pesos.csv`
